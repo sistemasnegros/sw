@@ -14,6 +14,10 @@ This tool highlights with colors the console output by applying regular expressi
 
 ## Screenshots <a name = "screenshots"></a>
 
+![alt text](https://raw.githubusercontent.com/sistemasnegros/sw/master/img/1.png)
+
+![alt text](https://raw.githubusercontent.com/sistemasnegros/sw/master/img/2.png)
+
 
 
 ## Getting Started <a name = "getting_started"></a>
